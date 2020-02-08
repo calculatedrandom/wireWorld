@@ -1,0 +1,4 @@
+package MeGitHubTest;
+
+class MeGitReturn {
+}
